@@ -1,0 +1,8 @@
+name: testVP
+description: |
+ Ceci est un test
+version: 0
+category: web
+maintainer: lpaquet
+license: vp
+projectURL: http://wiki

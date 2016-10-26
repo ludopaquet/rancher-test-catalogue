@@ -1,0 +1,8 @@
+.catalog:
+  name: Notre service VP apache
+  version: 0
+  description: super un apache !
+  minimum_rancher_version: v1.0.1
+  maximum_rancher_version: v1.0.1  
+apache2-1:
+  scale: 1

@@ -1,0 +1,6 @@
+apache2-1:
+  labels:
+    io.rancher.container.pull_image: always
+  tty: true
+  image: httpd
+  stdin_open: true
